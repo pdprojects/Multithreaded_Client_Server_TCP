@@ -9,7 +9,7 @@ import static android.R.id.content;
 import static android.R.id.message;
 
 
-public class Server1
+public class Server
 {
     public static void main(String[] args)
     {
